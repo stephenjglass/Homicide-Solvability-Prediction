@@ -26,4 +26,4 @@ The project compares the predictive performance of traditional statistical model
 
 The full project report contains the complete data preparation, methodology, model development, results and discussion.
 
-**[View the full report](report/Predicting_Murder_in_the_USA.pdf)**
+**[View the full report](Predicting_Murder_in_the_USA.pdf)**
